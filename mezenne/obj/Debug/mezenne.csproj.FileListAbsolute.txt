@@ -1,0 +1,10 @@
+D:\Visual studio fayllar\mezenne\mezenne\bin\Debug\mezenne.exe.config
+D:\Visual studio fayllar\mezenne\mezenne\bin\Debug\mezenne.exe
+D:\Visual studio fayllar\mezenne\mezenne\bin\Debug\mezenne.pdb
+D:\Visual studio fayllar\mezenne\mezenne\obj\Debug\mezenne.csproj.AssemblyReference.cache
+D:\Visual studio fayllar\mezenne\mezenne\obj\Debug\mezenne.Form1.resources
+D:\Visual studio fayllar\mezenne\mezenne\obj\Debug\mezenne.Properties.Resources.resources
+D:\Visual studio fayllar\mezenne\mezenne\obj\Debug\mezenne.csproj.GenerateResource.cache
+D:\Visual studio fayllar\mezenne\mezenne\obj\Debug\mezenne.csproj.CoreCompileInputs.cache
+D:\Visual studio fayllar\mezenne\mezenne\obj\Debug\mezenne.exe
+D:\Visual studio fayllar\mezenne\mezenne\obj\Debug\mezenne.pdb
