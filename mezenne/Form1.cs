@@ -18,7 +18,7 @@ namespace mezenne
         }
         string[] valyutalar = { "AZN", "USD", "TRY", "RUB", "EUR" };
 
-        double[] vrg= { 1, 1.69999, 0.194727, 0.0233807, 2.01692 };
+        double[] vrg= { 1, 1.70, 0.056, 0.019, 1.83 };
 
         private void Form1_Load(object sender, EventArgs e)
         {
